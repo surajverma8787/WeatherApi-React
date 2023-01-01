@@ -30,6 +30,7 @@ body {
 }
 
 .widget {
+    margin-top: 50px;
     display: flex;
     height: 400px;
     width: 650px;
@@ -185,7 +186,7 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-top: -150px;
+    margin-top: -50px;
     margin-bottom: 50px;
 }
 
