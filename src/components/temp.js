@@ -6,7 +6,7 @@ import Weather from './weather';
 
 const Temp = () => {
 
-    const [searchValue, setSearchValue] = useState("Lucknow");
+    const [searchValue, setSearchValue] = useState("Varanasi");
     const [tempInfo, setTempInfo] = useState({});
 
     const getWeatherInfo = async () => {
